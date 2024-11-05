@@ -7,4 +7,8 @@ const removeVowels = (string) => {
   console.log(removeVowels("AEIOU")); // ""
   console.log(removeVowels("ABCDe")); // "BCD"
 
+
+  //Hey, Andy, Nata was here!)))
+
 //Divya edited
+
